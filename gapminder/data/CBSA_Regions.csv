@@ -1,0 +1,116 @@
+CBSA,State,State_Abbr,Region,Division
+"Boulder, CO",Colorado,CO,West,Mountain
+"California-Lexington Park, MD",Maryland,MD,South,South Atlantic
+"Durham-Chapel Hill, NC",North Carolina,NC,South,South Atlantic
+"Greeley, CO",Colorado,CO,West,Mountain
+"Homosassa Springs, FL",Florida,FL,South,South Atlantic
+"Indianapolis-Carmel-Anderson, IN",Indiana,IN,Midwest,East North Central
+"Merced, CA",California,CA,West,Pacific
+"Oxnard-Thousand Oaks-Ventura, CA",California,CA,West,Pacific
+"Salinas, CA",California,CA,West,Pacific
+"Albemarle, NC",North Carolina,NC,South,South Atlantic
+"Atlanta-Sandy Springs-Alpharetta, GA",Georgia,GA,South,South Atlantic
+"Burlington, NC",North Carolina,NC,South,South Atlantic
+"Charlotte-Concord-Gastonia, NC-SC",South Carolina,SC,South,South Atlantic
+"Gardnerville Ranchos, NV",Nevada,NV,West,Mountain
+"Jefferson, GA",Georgia,GA,South,South Atlantic
+"Los Angeles-Long Beach-Anaheim, CA",California,CA,West,Pacific
+"Olympia-Lacey-Tumwater, WA",Washington,WA,West,Pacific
+"Port St. Lucie, FL",Florida,FL,South,South Atlantic
+"Albuquerque, NM",New Mexico,NM,West,Mountain
+"Baltimore-Columbia-Towson, MD",Maryland,MD,South,South Atlantic
+"Cape Coral-Fort Myers, FL",Florida,FL,South,South Atlantic
+"Chicago-Naperville-Elgin, IL-IN-WI",Wisconsin,WI,Midwest,East North Central
+"Fernley, NV",Nevada,NV,West,Mountain
+"Fort Collins, CO",Colorado,CO,West,Mountain
+"Gainesville, GA",Georgia,GA,South,South Atlantic
+"Hanford-Corcoran, CA",California,CA,West,Pacific
+"Henderson, NC",North Carolina,NC,South,South Atlantic
+"McAllen-Edinburg-Mission, TX",Texas,TX,South,West South Central
+"Bakersfield, CA",California,CA,West,Pacific
+"Bremerton-Silverdale-Port Orchard, WA",Washington,WA,West,Pacific
+"Brownsville-Harlingen, TX",Texas,TX,South,West South Central
+"Carson City, NV",Nevada,NV,West,Mountain
+"Deltona-Daytona Beach-Ormond Beach, FL",Florida,FL,South,South Atlantic
+"Denver-Aurora-Lakewood, CO",Colorado,CO,West,Mountain
+"Gainesville, FL",Florida,FL,South,South Atlantic
+"Greensboro-High Point, NC",North Carolina,NC,South,South Atlantic
+"Houston-The Woodlands-Sugar Land, TX",Texas,TX,South,West South Central
+"Colorado Springs, CO",Colorado,CO,West,Mountain
+"Flagstaff, AZ",Arizona,AZ,West,Mountain
+"Lakeland-Winter Haven, FL",Florida,FL,South,South Atlantic
+"Madera, CA",California,CA,West,Pacific
+"Minneapolis-St. Paul-Bloomington, MN-WI",Wisconsin,WI,Midwest,East North Central
+"Napa, CA",California,CA,West,Pacific
+"Ogden-Clearfield, UT",Utah,UT,West,Mountain
+"Portland-Vancouver-Hillsboro, OR-WA",Washington,WA,West,Pacific
+"Riverside-San Bernardino-Ontario, CA",California,CA,West,Pacific
+"Arcadia, FL",Florida,FL,South,South Atlantic
+"Austin-Round Rock-Georgetown, TX",Texas,TX,South,West South Central
+"El Centro, CA",California,CA,West,Pacific
+"Hagerstown-Martinsburg, MD-WV",West Virginia,WV,South,South Atlantic
+"Phoenix-Mesa-Chandler, AZ",Arizona,AZ,West,Mountain
+"Punta Gorda, FL",Florida,FL,South,South Atlantic
+"Reno, NV",Nevada,NV,West,Mountain
+"Sebastian-Vero Beach, FL",Florida,FL,South,South Atlantic
+"Lake Havasu City-Kingman, AZ",Arizona,AZ,West,Mountain
+"Las Vegas-Henderson-Paradise, NV",Nevada,NV,West,Mountain
+"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,TN,South,East South Central
+"Ocala, FL",Florida,FL,South,South Atlantic
+"Palm Bay-Melbourne-Titusville, FL",Florida,FL,South,South Atlantic
+"Provo-Orem, UT",Utah,UT,West,Mountain
+"Santa Cruz-Watsonville, CA",California,CA,West,Pacific
+"The Villages, FL",Florida,FL,South,South Atlantic
+*No CBSA,#N/A,SA,#N/A,#N/A
+"Boise City, ID",Idaho,ID,West,Mountain
+"Dallas-Fort Worth-Arlington, TX",Texas,TX,South,West South Central
+"Fresno, CA",California,CA,West,Pacific
+"Heber, UT",Utah,UT,West,Mountain
+"Jacksonville, FL",Florida,FL,South,South Atlantic
+"Modesto, CA",California,CA,West,Pacific
+"Raleigh-Cary, NC",North Carolina,NC,South,South Atlantic
+"Seattle-Tacoma-Bellevue, WA",Washington,WA,West,Pacific
+"Vallejo, CA",California,CA,West,Pacific
+"Salt Lake City, UT",Utah,UT,West,Mountain
+"San Francisco-Oakland-Berkeley, CA",California,CA,West,Pacific
+"Sherman-Denison, TX",Texas,TX,South,West South Central
+"St. George, UT",Utah,UT,West,Mountain
+"Tucson, AZ",Arizona,AZ,West,Mountain
+"Winchester, VA-WV",West Virginia,WV,South,South Atlantic
+"Winston-Salem, NC",North Carolina,NC,South,South Atlantic
+"Ottawa, IL",Illinois,IL,Midwest,East North Central
+"Pahrump, NV",Nevada,NV,West,Mountain
+"Prescott Valley-Prescott, AZ",Arizona,AZ,West,Mountain
+"San Antonio-New Braunfels, TX",Texas,TX,South,West South Central
+"San Diego-Chula Vista-Carlsbad, CA",California,CA,West,Pacific
+"Sierra Vista-Douglas, AZ",Arizona,AZ,West,Mountain
+"Stockton, CA",California,CA,West,Pacific
+"Sacramento-Roseville-Folsom, CA",California,CA,West,Pacific
+"San Jose-Sunnyvale-Santa Clara, CA",California,CA,West,Pacific
+"Santa Fe, NM",New Mexico,NM,West,Mountain
+"Santa Rosa-Petaluma, CA",California,CA,West,Pacific
+"Tampa-St. Petersburg-Clearwater, FL",Florida,FL,South,South Atlantic
+"Visalia, CA",California,CA,West,Pacific
+"Miami-Fort Lauderdale-Pompano Beach, FL",Florida,FL,South,South Atlantic
+"Mount Vernon-Anacortes, WA",Washington,WA,West,Pacific
+"Naples-Marco Island, FL",Florida,FL,South,South Atlantic
+"North Port-Sarasota-Bradenton, FL",Florida,FL,South,South Atlantic
+"Orlando-Kissimmee-Sanford, FL",Florida,FL,South,South Atlantic
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Maryland,MD,South,South Atlantic
+"Rockford, IL",Illinois,IL,Midwest,East North Central
+"Santa Maria-Santa Barbara, CA",California,CA,West,Pacific
+"St. Marys, GA",Georgia,GA,South,South Atlantic
+"Yuba City, CA",California,CA,West,Pacific
+"San Luis Obispo-Paso Robles, CA",California,CA,West,Pacific
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",West Virginia,WV,South,South Atlantic
+"Ocean City, NJ",New Jersey,NJ,Northeast,Middle Atlantic
+"Vineland-Bridgeton, NJ",New Jersey,NJ,Northeast,Middle Atlantic
+"New York-Newark-Jersey City, NY-NJ-PA",Pennsylvania,PA,Northeast,Middle Atlantic
+"Atlantic City-Hammonton, NJ",New Jersey,NJ,Northeast,Middle Atlantic
+"Allentown-Bethlehem-Easton, PA-NJ",New Jersey,NJ,Northeast,Middle Atlantic
+"Dover, DE",Delaware,DE,South,South Atlantic
+"Lancaster, PA",Pennsylvania,PA,Northeast,Middle Atlantic
+"Poughkeepsie-Newburgh-Middletown, NY",New York,NY,Northeast,Middle Atlantic
+"Reading, PA",Pennsylvania,PA,Northeast,Middle Atlantic
+"Trenton-Princeton, NJ",New Jersey,NJ,Northeast,Middle Atlantic
+"Salisbury, MD-DE",Delaware,DE,South,South Atlantic
